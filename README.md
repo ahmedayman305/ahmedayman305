@@ -52,7 +52,9 @@
 <!-- Snake Animation -->
 <div align="center">
   
-![snake gif](https://github.com/ahmedayman305/ahmedayman305/blob/output/github-snake-dark.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/ahmedayman305/ahmedayman305/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ahmedayman305/ahmedayman305/output/github-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ---
