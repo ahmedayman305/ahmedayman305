@@ -15,7 +15,11 @@
 
   </br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedayman305&theme=aura&hide_border=true" width="50%" />
+ <img 
+    src="https://streak-stats.demolab.com?user=ahmedayman305&theme=aura&hide_border=true" 
+    width="50%" 
+    alt="GitHub Streak" 
+  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedayman305&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
   </br>
 </div>
