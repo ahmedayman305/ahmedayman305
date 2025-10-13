@@ -52,7 +52,8 @@
 <!-- Social connections -->
 <div align="center">
 
-<h2 align="center" style="border-bottom: none;">🌐 Connect with Me ✨</h2>
+**💻 Tech Stack 💎**
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman723)
