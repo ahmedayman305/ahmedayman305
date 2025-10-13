@@ -27,7 +27,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-## 💻 Tech Stack 💎
+<h2 align="center" style="border-bottom: none;">💻 Tech Stack 💎</h2>
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,7 +52,7 @@
 <!-- Social connections -->
 <div align="center">
 
-## 🌐 Connect with Me ✨
+<h2 align="center" style="border-bottom: none;">🌐 Connect with Me ✨</h2>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman723)
