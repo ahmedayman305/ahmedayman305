@@ -28,6 +28,7 @@
 <div align="center">
   
 ### 💻 Tech Stack 💎
+</br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,9 +52,8 @@
 <!-- Social connections -->
 <div align="center">
 
-**💻 Tech Stack 💎**
-
-
+###🌐 Connect with Me ✨
+</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman723)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/ahmedghandy20038239)
