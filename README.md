@@ -52,7 +52,7 @@
 <!-- Social connections -->
 <div align="center">
 
-###🌐 Connect with Me ✨
+### 🌐 Connect with Me ✨
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman723)
