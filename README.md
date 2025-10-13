@@ -27,8 +27,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-<h2 align="center" style="border-bottom: none;">💻 Tech Stack 💎</h2>
-
+### 💻 Tech Stack 💎
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
