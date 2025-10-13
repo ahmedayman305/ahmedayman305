@@ -4,12 +4,12 @@
 ---
 
 <!-- Stats -->
-<!-- Stats -->
+
 <div align="center">
 
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedayman305&theme=aura&hide_border=true&include_all_commits=true" width="55%" />
-    <img src="https://media1.tenor.com/m/lJBRQwliY7oAAAAC/bleach-kyoraku.gif" width="150" height="150" alt="Kyoraku Bleach GIF" />
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedayman305&theme=aura&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats" />
+    <img src="https://media1.tenor.com/m/lJBRQwliY7oAAAAC/bleach-kyoraku.gif" width="400" height="200" alt="Kyoraku Bleach GIF" />
   </div>
 
   </br>
@@ -18,6 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedayman305&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
   </br>
 </div>
+
 
 
 ---
